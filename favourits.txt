@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 Pizza
 Burger
 Angebratene Semelknödel
-=======
 Mr and Mrs Smith
 Restart
 Respawn
 MAchS
->>>>>>> movies
+
